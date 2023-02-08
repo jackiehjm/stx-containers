@@ -9,7 +9,7 @@ Standards-Version: 4.4.1
 XS-Go-Import-Path: registry-token-server
 
 Package: registry-token-server
-Architecture: amd64
+Architecture: arm64
 Multi-Arch: no
 Depends: ${misc:Depends},
  ${shlibs:Depends}
